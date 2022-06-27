@@ -1,0 +1,35 @@
+testnet
+token0: cmq: 0x5456c2Af0c192C1928e8369562c2Cb9eb9662926
+token1: vync: 0x71BE9BA58e0271b967a980eD8e59C07fF2108C85
+
+router: 0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3
+factory: 0xB7926C0430Afb07AA7DEfDE6DA862aE0Bde767bc  //get pair
+lp token: 0xb2c6E2aD22dcdeF7205891537b8D55E731D4ac29
+treasury: 0x02CA4C5e88e125a7f7003fdae697Fa4F2E6da118
+
+
+
+mainnet
+token0: cmq: 0x074E91c178e4B4c6228357A5A0B6df5aD824f0d8
+toknen1: vync: 0xee1ae38be4ce0074c4a4a8dc821cc784778f378c
+
+router: 0x10ed43c718714eb63d5aa57b78b54704e256024e
+factory: 0xca143ce32fe78f1f7019d7d551a6402fc5350c73  //get pair
+lp token: 0x231a22a2c6AF2589aAe5Bbf35485376b6c58c6a3
+
+
+previous pool data mainnet:
+vync treasury: 0x3aB51edCe7a72a8F8892858e2921d4c90192668b
+
+
+// cmq staking pool data testnet:
+
+cmq-pool data testnet
+info: 0xCEc1D8622A9893CE73428a48F868a20f42E21031
+
+
+
+
+//changes from vync pool
+max stake and unstake amount will be cmq amount
+unstake stake fee? in usd or in token?
